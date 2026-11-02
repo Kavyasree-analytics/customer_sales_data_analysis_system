@@ -31,7 +31,7 @@ An end-to-end data analytics and business intelligence project demonstrating dat
 1. **Executive KPI Cards:** Real-time visibility into Gross Sales, Orders, Customer Base, AOV, and Fulfillment Lead Time.
 2. **RFM Customer Segmentation (Donut Chart):** Distribution of buyers across behavioral cohorts (*Champions*, *Recent Growth*, *At Risk*, and *Hibernating*).
 3. **Revenue by Segment (Bar Chart):** Sales contribution per RFM tier.
-4. **Regional Sales Performance (Stacked Bar):** Breakdown across West (~$0.73M), East (~$0.68M), Central (~$0.50M), and South (~$0.40M).
+4. **Regional Sales Performance (Stacked Bar):** Breakdown across West ($0.73M), East ($0.68M), Central ($0.50M), and South ($0.40M).
 5. **Product Category Distribution:** Technology and Office Supplies leading commercial sales volume.
 6. **Dynamic Slicers:** Interactive filtering by Date Range, Order Region, and Customer Segment.
 
